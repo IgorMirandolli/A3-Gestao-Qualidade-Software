@@ -2,7 +2,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=IgorMirandolli_A3-Gestao-Qualidade-Software&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=IgorMirandolli_A3-Gestao-Qualidade-Software)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=IgorMirandolli_A3-Gestao-Qualidade-Software&metric=coverage)](https://sonarcloud.io/component_measures?id=IgorMirandolli_A3-Gestao-Qualidade-Software_base&metric=coverage)
 
-# Cadastro de Clientes Base para Desktop em Banco de Dados em 3 camadas utilizando o padrão Abstract Factory.
+# A3-gestão-Qualidade_software
 
-Para ser utilizado nas atividades de CI.
+
 
